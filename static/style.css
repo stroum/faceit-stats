@@ -44,4 +44,5 @@ tbody tr.match td {
     border-radius: 2px;
     padding: 4px 8px;
     vertical-align: 'middle';
+    margin-left: 5px;
 }
